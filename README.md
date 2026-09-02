@@ -162,11 +162,11 @@ Build technology that is not only powerful —
 
 ---
 
-# 📈 GitHub Contribution Graph
+## 📈 JARVIS ACTIVITY MATRIX
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=milky-moon-2006&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=milky-moon-2006&bg_color=050b14&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true&custom_title=JARVIS%20ACTIVITY%20MATRIX" width="100%">
 
 </div>
 
