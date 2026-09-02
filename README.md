@@ -57,7 +57,7 @@ Build technology that is not only powerful —
 
 <td width="45%" align="center">
 
-<img src="./assets/coding.jpeg" width="100%" alt="Ayan coding">
+<img src="./coding.jpeg" width="100%" alt="Ayan coding">
 
 <br><br>
 
