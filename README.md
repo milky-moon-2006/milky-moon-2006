@@ -176,7 +176,7 @@ Build technology that is not only powerful —
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/milky-moon-2006/milky-moon-2006/output/github-contribution-grid-snake-dark.svg" width="100%">
+<img src="https://raw.githubusercontent.com/milky-moon-2006/milky-moon-2006/gh-pages/github-contribution-grid-snake-dark.svg" width="100%">
 
 </div>
 
