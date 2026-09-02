@@ -148,15 +148,17 @@ Build technology that is not only powerful —
 
 # 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=milky-moon-2006&show_icons=true&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=milky-moon-2006&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 
-<img height="180" src="https://streak-stats.demolab.com/?user=milky-moon-2006&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://streak-stats.demolab.com?user=milky-moon-2006&theme=tokyonight&hide_border=true"/>
 
 <br><br>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milky-moon-2006&layout=compact&theme=tokyonight&hide_border=true">
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=milky-moon-2006&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
