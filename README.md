@@ -219,8 +219,6 @@ Build technology that is not only powerful —
 
 </div>
 
-> ⚠️ If your LeetCode username is different from your GitHub username, replace `milky-moon-2006` in the URL above with your actual LeetCode username.
-
 ---
 
 # 🚀 Featured Projects
