@@ -186,9 +186,7 @@ Build technology that is not only powerful —
 
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=milky-moon-2006&theme=darkhub&row=1&column=6" alt="GitHub Trophies" />
-  </a>
+  <img src="./trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---
