@@ -225,15 +225,16 @@ Build technology that is not only powerful —
 
 # 🚀 Featured Projects
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/milky-moon-2006/JARVIS">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=milky-moon-2006&repo=JARVIS&theme=tokyonight"
+      alt="JARVIS Project Card"
+    />
+  </a>
+</p>
 
-<a href="https://github.com/milky-moon-2006">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=milky-moon-2006&repo=JARVIS&theme=tokyonight&hide_border=true" />
-
-</a>
-
-</div>
+---
 
 ### 🤖 JARVIS — AI Personal Assistant
 
