@@ -9,8 +9,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=milky-moon-2006&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" />
-
+<img src="./ai-brain-banner.png" width="85%" alt="Futuristic AI brain with blue neon circuitry" />
 <br><br>
 
 <a href="https://github.com/milky-moon-2006">
