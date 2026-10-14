@@ -4,7 +4,8 @@
 
 ### AI Engineer • Machine Learning • Generative AI • Intelligent Systems
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=100&lines=AI+Engineer;Machine+Learning+Enthusiast;Generative+AI+Explorer;Building+Intelligent+Systems;Turning+Ideas+Into+Reality" alt="AI Engineer typing animation" />
 
 <br>
 
